@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "kaikaVB2N3", "kaikaVB2N3\kaikaVB2N3.vbproj", "{D0D62071-8834-497A-85D5-FCF7EBFCCCC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D62071-8834-497A-85D5-FCF7EBFCCCC0}.Debug|x86.ActiveCfg = Debug|x86
+		{D0D62071-8834-497A-85D5-FCF7EBFCCCC0}.Debug|x86.Build.0 = Debug|x86
+		{D0D62071-8834-497A-85D5-FCF7EBFCCCC0}.Release|x86.ActiveCfg = Release|x86
+		{D0D62071-8834-497A-85D5-FCF7EBFCCCC0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
